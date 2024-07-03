@@ -121,6 +121,7 @@ We will learn about `Processor Internal Structure`
 Resources :-
 - [Eng.Mohamed Adel | EmbeddedSystem_Concept session](https://drive.google.com/drive/folders/10oxIu6RjtplNRlwJdgzsmW2iuq6fh_tx?usp=drive_link)
 - [Eng.Mohsen youssif & Eng.Ahmed Maged | Video(1,2) in playlist](https://youtube.com/playlist?list=PLEPINOrvANGfVTricxFp5PW6xCaQ7H1gZ&si=-jqfTF-PYYlf2EiE)
+- [Dr Craig A. Evans](https://www.youtube.com/watch?v=5ebSTvJVNmg&list=PLsHOxmMgAiQzTWKWKHYHSnYNPBb2dqmQv)
 
 
 ## Memory
