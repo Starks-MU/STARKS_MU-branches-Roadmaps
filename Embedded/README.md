@@ -174,6 +174,8 @@ Here, we will Understand embedded software design and its different aspects
 
 ## FreeARTOS
 
+- [Eng.Rezk Ahmed | Youtube](https://youtube.com/playlist?list=PLEPINOrvANGfzN1XxxIsaJQDfjQKGE7bU&si=T_HYEbLL1B-yB0V5)
+
 **Mastering RTOS: Hands on FreeRTOS and STM32Fx with Debugging**
   - ["DIY RTOS Made Easy: Mastering Microcontrollers"](https://www.udemy.com/course/mastering-rtos-hands-on-with-freertos-arduino-and-stm32fx/?id=*fXwwmOZxWA&mid=39197&u1=120189_&murl=https%3A%2F%2Fwww.udemy.com%2F&ranMID=39197&ranEAID=*fXwwmOZxWA&ranSiteID=.fXwwmOZxWA-VtoJNgAz23urBEor5hzarw&LSNPUBID=*fXwwmOZxWA&utm_source=aff-campaign&utm_medium=udemyads)
 
