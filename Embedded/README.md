@@ -21,7 +21,9 @@ Unlike general-purpose computers, such as laptops or desktops, embedded systems 
 - [Recommended Needs](#recommended-needs)
 - [References](#references)
  
- ---
+---
+---
+---
 
 # Beginner Level
 - [C Programming](#c-programming)
@@ -41,12 +43,12 @@ Go with two Courses together:
 Beside these matierial, it is recommended to read the chapter(s) of each topic from [C_How_to_Program_7th_Edition_by_Paul_Dei](https://drive.google.com/file/d/1u3x4TYab9vQHsqTs5a2xWCDSnc-vImI1/view?usp=drive_link)   **OR**  [C Programming: A Modern Approach by K N King](https://drive.google.com/file/d/18pLjNvcf7OJhg01fVJITXdvKFAuemAuF/view?fbclid=IwAR0z59u7lvfRmpgWF45GDmn38kVd0uNycTvE511CuYRbMVq1Jv72rc7wYIg)
 
 
-Another useful Courses
+Another useful Resources
 
 - [Microcontroller Embedded C](https://www.udemy.com/course/microcontroller-embedded-c-programming/)
-- [C with kerolos ](https://www.udemy.com/course/microcontroller-embedded-c-programming/)
 - [MycodeSchool: Pointers in C/C++](https://www.youtube.com/playlist?list=PL2_aWCzGMAwLZp6LMUKI3cc7pgGsasm2_)
 - [Understanding and Using C Pointers: Core Techniques for Memory Management by Richard M. Reese](https://drive.google.com/file/d/1L_9Sg2q89R6AQEuDJvFQI-AmhCbsNRkV/view?usp=sharing)
+<!-- - [C with kerolos ](https://www.udemy.com/course/microcontroller-embedded-c-programming/)-->
 
 
 ## Data Structure
@@ -81,8 +83,8 @@ Beside these matierial, it is recommended to read the chapter(s) of each topic f
 There are some suggested C projects.
 - [Breakfast Machine](https://drive.google.com/file/d/1krc5wWEEQCxXrk_RKKZr4EXt6DSfgWdn/view)
 - [Library management system](https://drive.google.com/file/d/1za4RDBhHP5-f2omYFkkJTGSur0Trti-Z/view) 
-- [Student System Record](https://drive.google.com/file/d/1G6d5u4RAeCquRJj-CYL04ESjOv4DDs8D/view?fbclid=IwAR1s_hTaCaMoOz5moxizFLt-zF7zizETbyYcyX8IMGsq_fkAjWPlzYe8vpw)
-- [Payment Application](https://docs.google.com/document/d/13wQxfnEIRgrSuv0ZBfRaBNXUcO3Xk5kqtx8MJtn5SWs/edit?fbclid=IwAR0kwUSN4tz2OUQ_In5d_fKScrCclV18CLoi6F-EZGcAp-joDEqR_FcoZFk#) 
+<!--- [Student System Record](https://drive.google.com/file/d/1G6d5u4RAeCquRJj-CYL04ESjOv4DDs8D/view?fbclid=IwAR1s_hTaCaMoOz5moxizFLt-zF7zizETbyYcyX8IMGsq_fkAjWPlzYe8vpw)
+- [Payment Application](https://docs.google.com/document/d/13wQxfnEIRgrSuv0ZBfRaBNXUcO3Xk5kqtx8MJtn5SWs/edit?fbclid=IwAR0kwUSN4tz2OUQ_In5d_fKScrCclV18CLoi6F-EZGcAp-joDEqR_FcoZFk#) -->
  
 
 ---
@@ -166,8 +168,8 @@ Here, we will Understand embedded software design and its different aspects
 
 
 # Advanced Level
-- [FreeARTOS](##FreeARTOS)
-- [ARM Microcontroller](##ARM-Microcontroller)
+- [FreeARTOS](#freeartos)
+- [ARM Microcontroller](#arm-microcontroller)
 
 ## FreeARTOS
 
@@ -197,6 +199,9 @@ Here, we will Understand embedded software design and its different aspects
 
 
 # Recommended Needs
+- [Problem Solving](#problem-solving)
+- [Introduction to Git and GitHub](#introduction-to-git-and-github)
+
 
 ## Problem Solving
 ***It is a Powerful Skill you should have.***
@@ -208,11 +213,11 @@ Here, we will Understand embedded software design and its different aspects
 
 You can learn about them from these resources:
 - [Git and GitHub | شخبط وانت متطمن](https://www.youtube.com/watch?v=Q6G-J54vgKc&t=7346s&ab_channel=%D8%A8%D8%A7%D9%84%D8%B9%D8%B1%D8%A8%D9%8ABigData)   
-      [The most common commands in git.](https://docs.google.com/document/d/e/2PACX-1vRsH5CE2ty2BzWys6bsTfJ8sYDrNg0yBy8rrVU2jWhr3QbJ1YHdXgPwZbAuf04hz-YSrjIbBkjIPABx/pub)
+-  [The most common commands in git.](https://docs.google.com/document/d/e/2PACX-1vRsH5CE2ty2BzWys6bsTfJ8sYDrNg0yBy8rrVU2jWhr3QbJ1YHdXgPwZbAuf04hz-YSrjIbBkjIPABx/pub)
 - [Pro Git](https://drive.google.com/file/d/13h9CWcrnBwbLKcRTr4-ypcy0rawzbvYY/view?usp=sharing)
 
 
-## References
+# References
 
 - [C_How_to_Program_7th_Edition_by_Paul_Dei](https://drive.google.com/file/d/1u3x4TYab9vQHsqTs5a2xWCDSnc-vImI1/view?usp=drive_link)
 
