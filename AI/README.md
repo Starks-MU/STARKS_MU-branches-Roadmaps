@@ -17,9 +17,7 @@ This document also serves as a README file to accompany your Data Science learni
 
 ---
 
-> For Datacamp courses we have access to it, if you don’t:<br>
-
-     <li> Github student pack gives you free access for 3 months.<br>
+> For Datacamp courses we have access to it, if you don’t:<br> Github student pack gives you free access for 3 months.<br>
 
 `You can google it, if you want more details`
 
